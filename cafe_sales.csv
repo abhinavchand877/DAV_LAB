@@ -1,0 +1,23 @@
+Item,Category,Price,Quantity,Rating
+Cappuccino,Beverage,120,35,4.5
+Cold Coffee,Beverage,140,28,4.3
+Masala Chai,Beverage,40,60,4.6
+Green Tea,Beverage,60,22,4.0
+Lemonade,Beverage,70,31,4.1
+Veg Sandwich,Snack,90,40,4.2
+Samosa,Snack,25,75,4.4
+French Fries,Snack,80,45,3.9
+Paneer Wrap,Snack,110,26,4.3
+Garlic Bread,Snack,95,,4.0
+Brownie,Dessert,100,30,4.7
+Cheesecake,Dessert,150,18,4.8
+Ice Cream,Dessert,80,38,4.5
+Donut,Dessert,60,34,4.2
+Muffin,Dessert,70,29,
+Espresso,Beverage,90,20,4.4
+Samosa,Snack,25,75,4.4
+Mojito,Beverage,110,24,4.2
+Nachos,Snack,130,19,4.1
+Pastry,Dessert,75,33,4.3
+Pasta,Snack,160,,4.6
+Milkshake,Beverage,,27,4.4
